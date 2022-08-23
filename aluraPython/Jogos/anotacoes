@@ -1,0 +1,8 @@
+# python usa skanke_case 
+# print("srting interpolation {}", format(qualquer, coisa))
+# \\ == or && == and no python 
+# >>> nome = 'Matheus'
+# >>> print(f'Meu nome é {nome.lower()}')
+# Meu nome é matheus
+# round arredonda pra cima
+# abs transforma o númeor negativo em positivo
